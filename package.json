@@ -1,0 +1,14 @@
+{
+  "name": "evernote2applenotes",
+  "version": "0.0.1",
+  "description": "tweaks a .enex file to preserve note attributes as text content",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Al Zimmerman <auraelius@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "xml2json": "^0.12.0"
+  }
+}
